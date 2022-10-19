@@ -1,38 +1,34 @@
+### WELCOME TOO GITHUB
+<h3 align="left">Cara Install Script :</h3>
 
-#### EFBC ADALAH SCRIPT PERETAS FACEBOOK AKUN BERBASIC LINUX
+- Download Apk Termuxnya Disini Biar Engga Eror <a href="https://f-droid.org/repo/com.termux_117.apk">[•]SINI</a>
 
-# BANG KOK GW GA BISA JALANIN IKUTI PERINTAH DI BAWAH INI
-### USAHAIN PAKEK TERMUX YA ADECK-ADECK
-```python
-pkg update && pkg upgrade
-pkg install python
-pkg install git
-pip install request
-pip install mechanize
-pip install stdiomask
-pip install bs4
-pip install rich
-git clone https://github.com/maiki199/efbc
-```
-# cara jalankan script
-```python
-cd efbc
-ls
-python efbc.py
-```
-# Apa saja fungsinya
-Cracking lah bego
+- lalu buka aplikasinya ketikan perintah dibawah ini.
 
-# THANKS TO
-```
-TEAM•SQUAD
-XTC | Code Team
-```
-### RECOMENDED
-METODE : 2/FREE
+       $ pkg update && pkg upgrade
+       $ pkg install python 
+       $ pkg install git
+       $ pip install requests 
+       $ pip install futures
+       $ pip install mechanize
+       $ pip install rich
+       $ pip install bs4
+            
+<h3 align="left">Cara Menjalankan Script :</h3>
+       
+       $ git clone https://github.com/maiki199/efbc-2
+       $ cd efbc-V2
+       $ git pull
+       $ python efbc-1.py
 
-AKUN : RANDOM/NEW
+<h3 align="left">LIST HARGA LISENSI:</h3>
 
-MENU : 2/MASSAL
+- 1 Minnggu  : OFF
 
-MODE PESAWAT SETIAP 1/500ID
+- 1 Bulan    : 70K
+
+- Permanent + Open Source : 150K
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=👥MAHAL+BET+BANG+🙈SCRIPT+GG+CUY....+)
+<h3 align="left">BUY LISENSI DI👇:</h3>
+- 083862287464 WHATSAPP
