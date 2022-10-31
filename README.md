@@ -17,7 +17,7 @@
 <h3 align="left">Cara Menjalankan Script :</h3>
        
        $ git clone https://github.com/maiki199/efbc-2
-       $ cd efbc-V2
+       $ cd efbc-1
        $ git pull
        $ python efbc-1.py
 
